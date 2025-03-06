@@ -112,7 +112,14 @@ h2 {
 }
 
 .personal-info {
-    margin-top: 10px;
+    display: flex;
+    align-items: center; /* Đảm bảo icon và chữ trên cùng 1 hàng */
+    gap: 10px; /* Tạo khoảng cách giữa icon và chữ */
+}
+
+.personal-info img {
+    width: 40px;
+    height: 40px;
 }
 
 .personal-info ion-icon {
