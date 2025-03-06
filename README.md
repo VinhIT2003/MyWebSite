@@ -103,9 +103,9 @@ Các nghiệp vụ quan trọng nhất bao gồm:
 ---
 ### V. Các thành viên trong nhóm
 - 🚀 Thành viên 1: 3121411226-Trần Quang Vinh(nhóm trưởng):  https://vinhit2003.github.io/MyWebSite/
-- 🌟 Thành viên 2: 3121411060-Nguyễn Trí Đức
+- 🌟 Thành viên 2: 3121411060-Nguyễn Trí Đức: https://duc01ai.github.io/
 - ⚡ Thành viên 3: 3121411045-Đặng Nguyễn Quốc Dương: https://yonorikomana.github.io/DuongCV/
-- 🎯 Thành viên 4: 3121411100-Phạm Quang Khiêm
+- 🎯 Thành viên 4: 3121411100-Phạm Quang Khiêm: https://khiemne.github.io/khiempham1122.github.io/
 ---
 
 This is my website and also my group: https://vinhit2003.github.io/MyWebSite/
