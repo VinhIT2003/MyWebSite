@@ -44,12 +44,14 @@ html {
 }
 
 .personal-header img {
-    width: 80px;
-    height: auto;
+    width: 200px; /* Tăng kích thước ảnh */
+    height: 200px; /* Đảm bảo tỷ lệ khung hình */
     margin: 0 auto;
     border-radius: 50%;
     display: block;
+    object-fit: cover; /* Giúp ảnh không bị méo */
 }
+
 
 h1 {
     text-align: center;
